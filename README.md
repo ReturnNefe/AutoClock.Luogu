@@ -14,7 +14,7 @@ AutoClock.Luogu can send an email when when plugins failed to clock-in.
 
 Edit ``config.txt`` in the base directory.
 
-```json
+```
 {
     // Don't change the value of these three options.
     "getTokenUrl": "https://www.luogu.com.cn/",
